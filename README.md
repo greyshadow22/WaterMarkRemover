@@ -1,3 +1,5 @@
+# THIS PROGRAM IS FOR PRIVATE USE TO REMOVE A SPECIFIC WATERMARK, NO HATE TO THE ORIGINAL DEVELOPER WHO PLACED A SCRIPT THAT PUTS WATERMARKS INTO ALL HIS FILES :)
+
 # WaterMarkRemover
 
 The Watermark Removal Tool is a Python script that removes a specific watermark from files in a given directory. It searches for files with the extension `.dat` and removes the watermark if it exists.
