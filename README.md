@@ -21,3 +21,24 @@ The Watermark Removal Tool is a Python script that removes a specific watermark 
 
    ```shell
    pip install colorama
+3. Open a terminal or command prompt and navigate to the directory where the script is located.
+
+4. Run the script using the following command:
+
+   ```shell
+   python watermark_removal.py
+5. The script will prompt you to choose the directory where the watermark removal should be performed. You can either use the current directory or enter a master directory path.
+
+6. Once you provide the directory path, the script will process the files in the specified directory and its subdirectories, removing the watermark if found.
+
+7. If any files are modified, the script will display the relative paths of the modified files in green color.
+
+8. If no files are modified, the script will display a "No files modified" message in yellow color.
+
+9. Press Enter to quit the script.
+
+## Contributing
+- Contributions are welcome! If you find any issues or want to enhance the functionality of the script, please feel free to open an issue.
+
+
+Feel free to copy and use this README file for your project!
